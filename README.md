@@ -4,7 +4,7 @@
 
 <br/>
 
-**command in server program**
+## command in server program
 
 - /help             :  Show help message
 - /join [Channel]   :  join Channel which name is [----]
